@@ -1,0 +1,2 @@
+# Pins of NUCLEO Board
+
