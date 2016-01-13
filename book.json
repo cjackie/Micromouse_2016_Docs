@@ -2,5 +2,10 @@
     "plugins": [
         "disqus"
     ],
-    "pluginsConfig": {}
+    "pluginsConfig": {
+        "disqus": {
+            "shortName": "http://disqus.com/by/kbumsik",
+            "useIdentifier": true
+        }
+    }
 }
