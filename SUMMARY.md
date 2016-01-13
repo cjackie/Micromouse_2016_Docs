@@ -7,4 +7,5 @@
    * [How to use IDE](how_to_use_ide.md)
    * [Coding conventions](coding_conventions.md)
 * Use with Prototype board
+* Hardware
 
