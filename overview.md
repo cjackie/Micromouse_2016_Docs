@@ -4,6 +4,7 @@ The basic ideas of this project is following:
 * Use as many digital components as possible, to eliminate design concerns on analog
 * Make it easy to develop
 * Use mixed C/C++
+* Use FreeRTOS for task managing and resource management
 
 To observe the ideas above, the micromouse features:
 
