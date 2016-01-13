@@ -2,7 +2,8 @@
     "plugins": [
         "disqus",
         "github",
-        "youtube"
+        "youtube",
+        "googledocs"
     ],
     "pluginsConfig": {
         "disqus": {
