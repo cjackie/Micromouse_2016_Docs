@@ -7,6 +7,9 @@
         "disqus": {
             "shortName": "http://disqus.com/by/kbumsik",
             "useIdentifier": true
+        },
+        "github": {
+            "url": "http://github.com/kbumsik/Micromouse_2016"
         }
     }
 }
