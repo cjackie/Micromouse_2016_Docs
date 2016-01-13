@@ -3,6 +3,7 @@ The basic ideas of this project is following:
 * Do not waste time on hardware
 * Use as many digital components as possible, to eliminate design concerns on analog
 * Make it easy to develop
+* Use mixed C/C++
 
 To observe the ideas above, the micromouse features:
 
