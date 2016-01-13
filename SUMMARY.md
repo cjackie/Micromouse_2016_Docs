@@ -4,6 +4,6 @@
    * [Overview](overview.md)
    * [Bill of Materials](bill_of_materials.md)
    * [Directory organization](directory_organization.md)
-   * How to use IDE
+   * [How to use IDE](how_to_use_ide.md)
    * [Coding conventions](coding_conventions.md)
 
