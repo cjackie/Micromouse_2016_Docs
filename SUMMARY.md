@@ -3,7 +3,7 @@
 * [Introduction](README.md)
    * [Overview](overview.md)
    * [Bill of Materials](bill_of_materials.md)
-   * Directory organization
+   * [Directory organization](directory_organization.md)
    * How to use IDE
    * [Coding conventions](coding_conventions.md)
 
